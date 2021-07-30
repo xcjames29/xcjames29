@@ -6,7 +6,7 @@
 ### Fullstack web app
 ### Crypt Tweet  Social Media Website 
 
-** Tech stacks: ReactJS, Chakra UI, Redux (Context API), ExpressJS, MongoDB, REST API, Chakra-UI ** 
+**Tech stacks: ReactJS, Chakra UI, Redux (Context API), ExpressJS, MongoDB, REST API, Chakra-UI** 
 
 - Website for developers to share their thoughts and follow other developers
 - I built it from scratch including authentication and used JWT for authorization 
@@ -24,7 +24,7 @@
 ### Web Apps
 ### Answer Port(Firebase)
 
-** Tech stacks: ReactJS, Firebase Authentication, FireStore Database , Redux , Material-UI **
+**Tech stacks: ReactJS, Firebase Authentication, FireStore Database , Redux , Material-UI**
 
 - App created to help teachers get instant responses from students in a live online class
 - Teachers can create a session, add students, and can share a unique link with students
@@ -38,7 +38,7 @@
 
 ### Movie Website
 
-**Tech stacks: ReactJS, HTML and CSS Flexbox **
+**Tech stacks: ReactJS, HTML and CSS Flexbox**
 
 - This is a website to browse and search popular movies and view posters and trailer videos
 - Implemented search using a 3rd Party REST API and used routing and pagination to load 10 movies at a time.
