@@ -16,9 +16,9 @@
 
 **Screenshots**
 
-<img src="https://github.com/xcjames29/xcjames29/blob/main/cryptweet.JPG?raw=true" width="150px"/>
-<img src="https://github.com/xcjames29/xcjames29/blob/main/cryptweet1.JPG?raw=true" width="150px" />
-<img src="https://github.com/xcjames29/xcjames29/blob/main/cryptweet2.JPG?raw=true" width="150px" />
+<img src="https://github.com/xcjames29/xcjames29/blob/main/cryptweet.JPG?raw=true" width="100%"/>
+<img src="https://github.com/xcjames29/xcjames29/blob/main/cryptweet1.JPG?raw=true" width="100%" />
+<img src="https://github.com/xcjames29/xcjames29/blob/main/cryptweet2.JPG?raw=true" width="100%" />
 
 
 ### Web Apps
