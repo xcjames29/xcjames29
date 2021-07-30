@@ -44,9 +44,9 @@
 - Implemented search using a 3rd Party REST API and used routing and pagination to load 10 movies at a time.
 - You can look at the website here https://movie-listings.netlify.app/
 
-<img src="" width="150px"/>
-<img src="" width="150px" />
-<img src="" width="150px" />
+<img src="https://github.com/xcjames29/xcjames29/blob/main/movie.JPG?raw=true" width="100%"/>
+<img src="https://github.com/xcjames29/xcjames29/blob/main/movie1.JPG?raw=true" width="100%"/>
+
 
 ### Memory Game
 **Tech stacks: ReactJS, HTML and CSS Flexbox**
@@ -55,8 +55,8 @@
 - Using multiple timers on the same page was a challenge 
 - Here is the link to play the game, enjoy! https://memory-game-fruits.netlify.app/
 
-<img src="" width="150px" />
-<img src="" width="150px" />
+<img src="https://github.com/xcjames29/xcjames29/blob/main/memory.JPG?raw=true" width="100%"/>
+<img src="https://github.com/xcjames29/xcjames29/blob/main/memory1.JPG?raw=true" width="100%"/>
 
 <!--
 **xcjames29/xcjames29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
