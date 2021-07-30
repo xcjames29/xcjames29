@@ -31,9 +31,9 @@
 - When a student opens the portal and answers something, it appears on the teacher's dashboard.
 - Here is a link to the teacher's dashboard for you to try it. https://answer-port.netlify.app/
 
-<img src="" width="150px"/>
-<img src="" width="150px" />
-<img src="" width="150px" />
+<img src="https://github.com/xcjames29/xcjames29/blob/main/answerport1.JPG?raw=true" width="100%"/>
+<img src="https://github.com/xcjames29/xcjames29/blob/main/answerport4.JPG?raw=true" width="100%"/>
+<img src="https://github.com/xcjames29/xcjames29/blob/main/answerport5.JPG?raw=true" width="100%"/>
 
 
 ### Movie Website
