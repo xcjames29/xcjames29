@@ -1,4 +1,4 @@
-##Hi my name is Clark James Evangelista 👋
+## Hi my name is Clark James Evangelista 👋
   I am a full-stack developer, currently living in Ibaraki, Japan. I love solving complex algorithms and converting them into simple programs. One of my hobbies is learning anything & everything about crypto-technologies
 
 
