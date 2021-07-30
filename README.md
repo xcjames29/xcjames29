@@ -6,7 +6,7 @@
 ### Fullstack web app
 ### Crypt Tweet  Social Media Website 
 
-**Tech stacks: ReactJS, Chakra UI, Redux (Context API), ExpressJS, MongoDB, REST API, Chakra-UI** 
+** Tech stacks: ReactJS, Chakra UI, Redux (Context API), ExpressJS, MongoDB, REST API, Chakra-UI ** 
 
 - Website for developers to share their thoughts and follow other developers
 - I built it from scratch including authentication and used JWT for authorization 
