@@ -24,7 +24,7 @@
 ### Web Apps
 ### Answer Port(Firebase)
 
-**Tech stacks: ReactJS, Firebase Authentication, FireStore Database , Redux **
+**Tech stacks: ReactJS, Firebase Authentication, FireStore Database , Redux**
 
 - App created to help teachers get instant responses from students in a live online class
 - Teachers can create a session, add students, and can share a unique link with students
