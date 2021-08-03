@@ -8,7 +8,7 @@
 
 **Tech stacks: ReactJS, Redux (Context API), ExpressJS, MongoDB, REST API** 
 
-- Website for developers to share their thoughts and follow other developers
+- Website for Crypto Technology Lovers to share their thoughts and follow other developers
 - I built it from scratch including authentication and used JWT for authorization 
 - You can follow other users and it generates a Feed that contains posts of all the users you are following
 - You can like a post, view other users’ profiles and unfollow them if you want
