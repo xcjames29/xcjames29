@@ -2,16 +2,16 @@
   I am a full-stack developer, currently living in Central Luzon, Philippines. I love solving complex algorithms and converting them into simple programs. One of my hobbies is learning anything & everything about new technologies.
 
 📫 How to reach me: 
-E-mail: cjamesevangelista@gmail.com
-linkedIn: <a href="https://www.linkedin.com/in/clark-james-evangelista-34ab2a184/"> Link Here </a>
-Online CV:  <a href="https://docs.google.com/document/d/17bg7XKbdKUqDo6Khldn8ceCuLTzlf7RAG4786H4gXmg/edit?usp=sharing> Link Here </a>
+  E-mail: cjamesevangelista@gmail.com
+  linkedIn: <a href="https://www.linkedin.com/in/clark-james-evangelista-34ab2a184/"> Link Here </a>
+  Online CV:  <a href="https://docs.google.com/document/d/17bg7XKbdKUqDo6Khldn8ceCuLTzlf7RAG4786H4gXmg/edit?usp=sharing"> Link Here </a>
 
 
-## Previous Experiences
-### ScoreUp
-# Techstack: React, Typescript,  ESLint, ShopifyApp, MongoDB
+# Previous Experiences
+## ScoreUp
+### Techstack: React, Typescript,  ESLint, ShopifyApp, MongoDB
 ScoreUp is a Shopify App that monitor and optimize your store's speed metrics. By analyzing your store across major speed metrics. Users are guided on how to address these speed issues.
-#Role:
+### Role:
 - Worked in a team in an Agile/Scrum environment.
 - Responsible for converting Figma/Zeplin design into ReactTS.
 - API implementation 
