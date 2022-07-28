@@ -1,26 +1,24 @@
 ### Hi my name is Clark James Evangelista 👋
-  I am a full-stack developer, currently living in Ibaraki, Japan. I love solving complex algorithms and converting them into simple programs. One of my hobbies is learning anything & everything about crypto-technologies
+  I am a full-stack developer, currently living in Central Luzon, Philippines. I love solving complex algorithms and converting them into simple programs. One of my hobbies is learning anything & everything about new technologies.
+
+📫 How to reach me: 
+E-mail: cjamesevangelista@gmail.com
+linkedIn: <a href="https://www.linkedin.com/in/clark-james-evangelista-34ab2a184/"> Link Here </a>
+Online CV:  <a href="https://docs.google.com/document/d/17bg7XKbdKUqDo6Khldn8ceCuLTzlf7RAG4786H4gXmg/edit?usp=sharing> Link Here </a>
 
 
-
-### Fullstack web app
-### Crypt Tweet  Social Media Website 
-
-**Tech stacks: ReactJS, Redux (Context API), ExpressJS, MongoDB, REST API** 
-
-- Website for Crypto Technology Lovers to share their thoughts and follow other people.
-- I built it from scratch including authentication and used JWT for authorization 
-- You can follow other users and it generates a Feed that contains posts of all the users you are following
-- You can like a post, view other users’ profiles and unfollow them if you want
-- Here is the website link, https://crypt-tweet.netlify.app  you can log in with username cjames123  and password qwerty and have a look
-
-**Screenshots**
-
-<img src="https://github.com/xcjames29/xcjames29/blob/main/cryptweet.JPG?raw=true" width="100%"/>
-<img src="https://github.com/xcjames29/xcjames29/blob/main/cryptweet1.JPG?raw=true" width="100%" />
+## Previous Experiences
+### ScoreUp
+# Techstack: React, Typescript,  ESLint, ShopifyApp, MongoDB
+ScoreUp is a Shopify App that monitor and optimize your store's speed metrics. By analyzing your store across major speed metrics. Users are guided on how to address these speed issues.
+#Role:
+- Worked in a team in an Agile/Scrum environment.
+- Responsible for converting Figma/Zeplin design into ReactTS.
+- API implementation 
+<a href="https://apps.shopify.com/scoreup-page-speed"> Link Here </a>
 
 
-
+## Sample Apps
 ### Web Apps
 ### Answer Port(Firebase)
 
@@ -64,11 +62,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
