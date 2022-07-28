@@ -19,6 +19,16 @@ ScoreUp is a Shopify App that monitor and optimize your store's speed metrics. B
 <a href="https://apps.shopify.com/scoreup-page-speed"> Link Here </a>
 
 
+## Tadaah.nl
+### Techstack: ReactJS, Python, Django, Postgres, Tailwind CSS, Storybook
+Tadaah is a freelancer platform for kindergarten substitute teachers in the Netherlands.
+### Role:
+- Responsible for adding and converting Django HTML templates  into React pages.
+- Converting Figma design pages into React using Tailwind CSS 
+- Usage of storybook for components documentation
+- API implementation in React pages
+
+<a href="https://www.tadaah.nl/"> Link Here </a>
 
 ## Sample Apps
 ### Web Apps
