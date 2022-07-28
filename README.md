@@ -8,14 +8,14 @@
 
 
 # Previous Experiences
-## ScoreUp
+## ScoreUp <a href="https://apps.shopify.com/scoreup-page-speed"> Link Here </a>
 ### Techstack: React, Typescript,  ESLint, ShopifyApp, MongoDB
 ScoreUp is a Shopify App that monitor and optimize your store's speed metrics. By analyzing your store across major speed metrics. Users are guided on how to address these speed issues.
 ### Role:
 - Worked in a team in an Agile/Scrum environment.
 - Responsible for converting Figma/Zeplin design into ReactTS.
 - API implementation 
-<a href="https://apps.shopify.com/scoreup-page-speed"> Link Here </a>
+
 
 
 ## Sample Apps
