@@ -1,5 +1,5 @@
 ### Hi my name is Clark James Evangelista 👋
-  I am a full-stack developer, currently living in Central Luzon, Philippines. I love solving complex algorithms and converting them into simple programs. One of my hobbies is learning anything & everything about new technologies.
+  I am a full-stack developer, currently living in Central Luzon, Philippines. I love solving complex algorithms and converting them into simple programs. One of my hobbies is learning anything & everything about AI  technologies.
 
 📫 How to reach me: 
   E-mail: cjamesevangelista@gmail.com
@@ -8,6 +8,13 @@
 
 
 # Previous Experiences
+## Private Identity - Biometrics and Identity Company
+### Techstack: React, Typescript, GIT, NPM, Web Assembly, Javascript, Tailwind CSS, MUI, 
+### Role:
+Front End Engineer
+Developed and optimized web applications with a focus on WebAssembly (WASM) integration. Built responsive and modern front-end designs using React (TypeScript CRA), Material-UI (MUI), and TailwindCSS. Maintained and published an NPM package for web integrations, ensuring reusable and scalable solutions across projects.
+
+
 ## ScoreUp 
 ### Techstack: React, Typescript,  ESLint, ShopifyApp, MongoDB
 ScoreUp is a Shopify App that monitor and optimize your store's speed metrics. By analyzing your store across major speed metrics. Users are guided on how to address these speed issues.
