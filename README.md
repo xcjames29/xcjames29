@@ -8,7 +8,7 @@
 
 
 # Previous Experiences
-## Private Identity - Biometrics and Identity Company
+## Private Identity - Biometrics and Identity Company (July 2024 - August 2025)
 ### Techstack: React, Typescript, GIT, NPM, Web Assembly, Javascript, Tailwind CSS, MUI, 
 ### Role:
 Front End Engineer
